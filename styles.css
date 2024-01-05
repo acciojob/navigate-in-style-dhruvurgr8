@@ -3,6 +3,9 @@ nav{
 	padding:10px;
 	background-color:#D3D3D3;
 }
+ul{
+	display:flex;
+}
 li{
 	list-style:none;
 	display:inline;
